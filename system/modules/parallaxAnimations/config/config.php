@@ -32,3 +32,9 @@ $GLOBALS['Parallax']['jsFunctions']['system'] = array_merge(
         'fadeSlowIn' => 'fadeSlowIn'
     )
 );
+
+/**
+ * Config array
+ */
+$GLOBALS['Parallax']['properties'][] = 'height';
+$GLOBALS['Parallax']['properties'][] = 'width';
